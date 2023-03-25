@@ -11,7 +11,7 @@ st.title("Amsterdam Airbnb - Week 2 - Data Cleansing & Filtering")
 
 st.write(
     """
-    Add filters bu clicking on "Add Filters" below.
+    Add filters by clicking on "Add Filters" below.
     
     *This app is based on the following [blog](https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/).*
     """
