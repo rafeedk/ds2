@@ -1,3 +1,4 @@
+%%writefile app.py
 import pandas as pd
 import streamlit as st
 from pandas.api.types import (
